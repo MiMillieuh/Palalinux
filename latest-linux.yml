@@ -1,0 +1,9 @@
+version: 1.0.0-beta.4
+files:
+  - url: Paladium-Launcher.AppImage
+    sha512: tw4NB8VNA5PunxoTAGp8X+9umK2SPEabgd4PiwvlpEYS2JLxrAqQaNREuA0ADZljUiiKsQXZUjOUHmTvqtFuAw==
+    size: 67784190
+    blockMapSize: 69138
+path: Paladium-Launcher.AppImage
+sha512: tw4NB8VNA5PunxoTAGp8X+9umK2SPEabgd4PiwvlpEYS2JLxrAqQaNREuA0ADZljUiiKsQXZUjOUHmTvqtFuAw==
+releaseDate: '2020-03-17T18:58:30.369Z'
